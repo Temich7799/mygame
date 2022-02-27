@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="50"
+   height="50"
+   viewBox="0 0 13.229166 13.229167"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="ball.svg"
+   inkscape:export-filename="C:\wamp64\www\mygame\js\assets\ball.png"
+   inkscape:export-xdpi="76.800003"
+   inkscape:export-ydpi="76.800003"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="4.1524866"
+     inkscape:cx="-16.25532"
+     inkscape:cy="47.561863"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3697">
+      <stop
+         style="stop-color:#54cde9;stop-opacity:1;"
+         offset="0"
+         id="stop3693" />
+      <stop
+         style="stop-color:#18afd9;stop-opacity:1"
+         offset="1"
+         id="stop3695" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3565"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#54cde9;stop-opacity:1;"
+         offset="0"
+         id="stop3563" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3697"
+       id="radialGradient3835"
+       cx="6.6145835"
+       cy="6.6145835"
+       fx="6.6145835"
+       fy="6.6145835"
+       r="6.6145835"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5978275,1.074379,-0.54499521,1.3177879,-6.9640468,-9.2086036)" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;mix-blend-mode:multiply;fill:url(#radialGradient3835);fill-opacity:1;stroke-width:0"
+       id="path846"
+       cx="6.6145835"
+       cy="6.6145835"
+       inkscape:export-filename="C:\wamp64\www\mygame\js\assets\ball.png"
+       inkscape:export-xdpi="76.800003"
+       inkscape:export-ydpi="76.800003"
+       r="6.6145835" />
+  </g>
+</svg>
